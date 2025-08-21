@@ -50,7 +50,7 @@ Build a model that can accurately classify fraudulent transactions based on 28 a
 
 ## 📁 Files in This Repo
 - `credit_card_fraud.ipynb` – Full notebook with preprocessing, modeling, and evaluation
-- `creditcard.csv` – Dataset (if included)
+- `creditcard.csv` – Dataset 
 - `README.md` – This file
 
 ---
